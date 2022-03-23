@@ -1,4 +1,4 @@
-# Micropitón ADC
+# Micropython ADC
 
 Alumno: Aaron Claudio Jesus Ruiz Rojo
 
